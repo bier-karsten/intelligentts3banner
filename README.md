@@ -19,6 +19,5 @@ Don't place the "banner.php" file in the "teamspeak3" archive!
 Now you need a mysql database with a row named ts and you need to enter the connection-details in the banner.php file.
 You need to enter the serverquery data in the banner.php file, too.
 
-
-
-#sorryformyenglish
+Mehr Informationen auf 
+[Tutorial auf Deutsch](http://tsbanner.adrianhes.de)
