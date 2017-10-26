@@ -16,7 +16,7 @@ NEEDED:
 Place the Teamspeak 3 PHP Framework files in an archive named "teamspeak 3" and place the "banner.php" file in the same direction where the "teamspeak3"-archive is located.
 Don't place the "banner.php" file in the "teamspeak3" archive!
 
-Now you need a mysql database with a row named ts and you need to enter the connection-details in the banner.php file.
+Now you need a mysql database with a table named ts and you need to enter the connection-details in the banner.php file.
 You need to enter the serverquery data in the banner.php file, too.
 
 [Tutorial auf Deutsch](http://tsbanner.adrianhes.de)
