@@ -2,10 +2,9 @@
 /* 
 <-- Don't remove this Copyright section! Diesen Copyrightbereich nicht entfernen -->
 Title: Intelligent Teamspeak3-Banner
-Author/Autor: Adrianhes
-Code by/Code von: Adrianhes
-Website/Webseite: https://adrianhes.de
-Contact/Kontakt: kontakt@adrianhes.de
+Author/Autor: Bier-Karsten
+Code by/Code von: Bier-Karsten
+Website/Webseite: https://github.com/bier-karsten
 License: Public usage allowed if this Copyrightsection isn't removed.
 Lizenz: Der öffentliche Gebrauch ist erlaubt, wenn der Copyrightbereich nicht verändert wurde.
 <-- Copyright End -->
